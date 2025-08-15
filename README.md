@@ -1,4 +1,4 @@
-# TikTokLive-Gift Bot
+maarkos# TikTokLive-Gift Bot
 This is a Python script that simulates a keypress or runs a function based on the gift received during a TikTok Live broadcast.
 
 # Installation
@@ -25,4 +25,5 @@ Sit back and watch the bot automatically respond to gifts during the broadcast.
 You can customize the bot's behavior by editing the gift_dict dictionary in gift_bot.py. This dictionary maps gift IDs to the function or keypress that should be simulated when that gift is received.
 
 # Contributing
+
 Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to submit an issue or a pull request.
